@@ -1,0 +1,39 @@
+.estrela{
+    height: 20px;
+    width: 20px;
+}
+
+.estrelaA{
+    display: inline;
+}
+
+.estrelas{
+    margin-top: 1em;
+}
+
+body{
+    background: lightblue !important;
+}
+
+.container{
+    background: #F5F5F5;
+    margin: 2em 0 2em 0;
+    padding: 1em 0 1em 0;
+}
+
+.rota{
+    padding: 2em 1em 2em 1em;
+    background: #F5F5F5;
+}
+
+hr{
+    margin: 0.5em !important;
+}
+
+.texto{
+
+}
+
+.imagemI{
+    height: 380px !important;
+}
